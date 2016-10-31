@@ -1,7 +1,7 @@
 # cell-science-bootstrap
 
 ####To initialize dev env:
-run
+run:
 ```bash
 npm i
 ```
@@ -10,12 +10,13 @@ npm i
 bower i
 ```
 
-make edits to customboot.less
+make edits to customboot.less varibles
 
-run
+then run:
 ```bash
 grunt dist-css
 ```
+to create new .css file
 
 ####To use current theme:
 Link to 

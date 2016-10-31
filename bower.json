@@ -1,0 +1,22 @@
+{
+  "name": "cell-science-bootstrap",
+  "description": "custom bootstrap setup",
+  "main": "index.html",
+  "authors": [
+    "Megan Riel-Mehan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/meganrm/cell-science-bootstrap",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}

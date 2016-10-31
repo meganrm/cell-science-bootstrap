@@ -1,6 +1,6 @@
 # cell-science-bootstrap
 
-####To initialize dev env:
+####To initialize dev environment and download Bootstrap:
 run:
 ```bash
 npm i

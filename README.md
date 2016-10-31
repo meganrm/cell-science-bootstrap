@@ -10,7 +10,7 @@ npm i
 bower i
 ```
 
-make edits to customboot.less varibles
+make edits to customboot.less variables
 
 then run:
 ```bash

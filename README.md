@@ -23,6 +23,13 @@ Link to
 ```html
 <link rel="stylesheet" href="/styles/bootstrap.min.css">
 ```
+```html
+
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  ```
+
+
 in your project
 
 
